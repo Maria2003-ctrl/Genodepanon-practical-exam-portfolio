@@ -1,0 +1,11 @@
+1. What is backend development?
+Backend development is the server-side of applications. It handles databases, logic, and communication between frontend and server.
+
+2. Give 2 examples of backend frameworks.
+
+Express.js
+
+Django
+
+3. What is an API?
+An API is a system that allows two software applications to communicate with each other.
